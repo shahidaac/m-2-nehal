@@ -1,0 +1,32 @@
+@media (max-width: 575.98px)  {
+  body {
+    background-color: #ece4e8;
+  }
+    [class*="mobile-responsive-hero0-img"] {
+    height: 300px;;
+    width: 300px;
+
+  }
+  
+     [class*="mobile-responsive-hero1"] {
+    width: 100%;
+
+  }
+     [class*="mobile-responsive-hero2 "] {
+     
+    width: 100%;
+
+  }
+
+  [class*="mobile-responsive-hero3 "] {
+    width: 100%;
+    
+  }
+
+   }
+
+   
+  
+
+
+
